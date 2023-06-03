@@ -1,6 +1,2 @@
 # textGame
---------------------------
-Java Text Game Template  |
---------------------------
-
-Small design base text game RPG
+This Java program is to create a text based RPG game while not complete there is some area works
